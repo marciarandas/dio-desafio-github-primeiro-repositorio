@@ -1,0 +1,6 @@
+Comandos Git:
+Git clone + link do repositorio github
+Cd + nome da pasta 
+
+git status
+O git bash é um terminal extendido para otimizar o uso do Git.
